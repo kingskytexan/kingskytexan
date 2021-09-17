@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kingskytexan - Tommy Klapheke
 - 👀 I’m interested in ...anything Apple, Playstation, and tattoos.
-- 🌱 I’m currently learning ...Swift in Sixty Seconds by Paul Hudson
+- 🌱 I’m currently learning ...The Complete iOS Developemtn Bootcamp by Dr. Angela Yu
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email-tommyklapheke@yahoo.com
 
