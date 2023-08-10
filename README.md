@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-🔭 I’m currently working on Python development - 100 Days of Code: Python <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Exploring New Technologies<br>🌱 I’m currently learning JavaScript<br>💬 Ask me about anything tech-related<br>⚡ Fun fact: I love tacos and ink. Great combo!
+🔭 I’m currently working on Python development - 100 Days of Code: Python <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Exploring New Technologies<br>🌱 I’m currently learning Python<br>💬 Ask me about anything tech-related<br>⚡ Fun fact: I love tacos and ink. Great combo!
 
 
 ## 🌐 Socials:
